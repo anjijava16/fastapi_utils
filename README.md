@@ -11,3 +11,5 @@
 4. https://github.com/tiangolo/full-stack-fastapi-postgresql/blob/master/%7B%7Bcookiecutter.project_slug%7D%7D/backend/app/app/api/api_v1/endpoints/items.py
 5. https://github.com/fastapi-users/fastapi-users/tree/master/fastapi_users
 6. https://github.com/nsidnev/fastapi-realworld-example-app
+7. https://github.com/ChristopherGS/ultimate-fastapi-tutorial
+8. https://christophergs.com/tutorials/ultimate-fastapi-tutorial-pt-1-hello-world/
